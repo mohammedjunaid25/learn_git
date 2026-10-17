@@ -1,0 +1,7 @@
+.env
+__pycache__/
+.venv/
+venv/
+fraud_model.pkl
+alert_threshold.txt
+transactions_clean.csv

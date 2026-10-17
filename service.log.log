@@ -1,0 +1,14 @@
+2026-10-16 14:10:08,036 INFO method=GET path=/health status=200 duration_ms=1.69
+2026-10-16 14:10:08,043 INFO method=POST path=/triage status=200 duration_ms=4.37
+2026-10-16 14:10:08,048 INFO method=POST path=/triage status=200 duration_ms=3.26
+2026-10-16 14:10:08,053 INFO method=POST path=/triage status=200 duration_ms=3.50
+2026-10-16 14:10:08,057 INFO method=POST path=/triage status=200 duration_ms=2.81
+2026-10-16 14:10:08,060 INFO method=POST path=/triage status=200 duration_ms=2.22
+2026-10-16 14:10:08,063 INFO method=POST path=/triage status=200 duration_ms=2.21
+2026-10-16 14:10:08,067 INFO method=POST path=/triage status=200 duration_ms=2.46
+2026-10-16 14:10:08,071 INFO method=POST path=/triage status=200 duration_ms=2.46
+2026-10-16 14:10:08,075 INFO method=POST path=/triage status=200 duration_ms=2.21
+2026-10-16 14:10:08,079 INFO method=POST path=/triage status=200 duration_ms=2.94
+2026-10-16 14:10:08,082 ERROR llm_unavailable txn_id=T900099
+2026-10-16 14:10:08,082 INFO method=POST path=/triage status=503 duration_ms=2.15
+2026-10-16 14:10:08,083 INFO method=GET path=/metrics status=200 duration_ms=0.37
